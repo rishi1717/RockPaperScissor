@@ -10,7 +10,7 @@ h1{
 }
 
 p{
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 button{
@@ -38,7 +38,7 @@ button:hover{
 .player{
     border-radius: 1em;
     text-align: center;
-    width: 8em;
+    width: 6em;
     border: double;
     margin-left: 5em;
     float: left;
@@ -47,7 +47,7 @@ button:hover{
 .com{
     border-radius: 1em;
     text-align: center;
-    width: 8em;
+    width: 6em;
     border: double;
     float: right;
     margin-right: 5em;
@@ -64,7 +64,7 @@ button:hover{
 .playerp{
     border-radius: 1em;
     text-align: center;
-    width: 8em;
+    width: 6em;
     border: double;
     margin-left: 5em;
     float: left;
@@ -73,7 +73,7 @@ button:hover{
 .comp{
     border-radius: 1em;
     text-align: center;
-    width: 8em;
+    width: 6em;
     border: double;
     float: right;
     margin-right: 5em;
