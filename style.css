@@ -1,0 +1,85 @@
+body{
+    background-image: url("back1.jpg");
+    background-size: cover;
+    color: rgb(70, 38, 38);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+button{
+    margin: 0.5em;
+    width: 8em;
+    height: 3em;
+    border:double;
+    border-radius: 1em;
+    font-size: 1em;
+    color: rgb(70, 40, 40);
+    background-color: transparent;
+}
+
+button:hover{
+    opacity: 0.3;
+    transform: scale(1.1);
+}
+
+.select{
+    text-align: center;
+    position: relative;
+    margin-top: 5em;
+}
+
+.player{
+    border-radius: 1em;
+    text-align: center;
+    width: 8em;
+    border: double;
+    margin-left: 5em;
+    float: left;
+}
+
+.com{
+    border-radius: 1em;
+    text-align: center;
+    width: 8em;
+    border: double;
+    float: right;
+    margin-right: 5em;
+}
+
+.res{
+    margin-top: 5em;
+}
+
+#result{
+    text-align: center;
+}
+
+.playerp{
+    border-radius: 1em;
+    text-align: center;
+    width: 8em;
+    border: double;
+    margin-left: 5em;
+    float: left;
+}
+
+.comp{
+    border-radius: 1em;
+    text-align: center;
+    width: 8em;
+    border: double;
+    float: right;
+    margin-right: 5em;
+}
+
+.final{
+    text-align: center;
+    margin-top: 6.5em;
+}
